@@ -1,0 +1,2 @@
+# lotto
+JavaScript exercise 
